@@ -1,4 +1,4 @@
-# typescript-autodoc
+# vscode-ts-autodoc
 
 Automatically generate documentation and tests for Typescript and Mocha using OpenAI Codex.
 
