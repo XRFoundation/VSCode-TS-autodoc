@@ -1,4 +1,4 @@
-# vscode-ts-autodoc
+# VSCode TS autodoc
 
 Automatically generate documentation and tests for Typescript and Mocha using OpenAI Codex.
 
@@ -15,4 +15,4 @@ This was quickly hacked to work for me and my team. Next steps will be to make i
 Would be nice to do complete files, as well :)
 
 ## Contributions Welcome
-I'm too busy to maintain this. Contribute or fork it and let us know so we can use any cool stuff you come up with, too :)
+We are too busy to maintain this. Contribute or fork it and let us know so we can use any cool stuff you come up with, too :)
